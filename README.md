@@ -14,6 +14,7 @@ This repository contains a Jupyter Notebook for predicting home prices in Bangal
 To run this notebook, install the necessary libraries:  
 ```bash
 pip install pandas numpy matplotlib scikit-learn
+```bash
 
 ## Models Used
 - **Linear Regression**
